@@ -17,3 +17,4 @@ funcitons:
 The development is based on functions, MVC pattern, and some HTML helper  to manage and maniuplate easly
 sources:
 https://codeigniter.com/ci/user_guide/helpers/form_helper.html
+database is designed in MySql DBMS
